@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'rest_framework',
 
     # My applications
-    'api.apps.ApiConfig',
+    'apiv1.apps.Apiv1Config',
 ]
 
 MIDDLEWARE = [
